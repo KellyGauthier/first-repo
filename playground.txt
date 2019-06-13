@@ -4,3 +4,5 @@ salut
 checkout
 master
 2nd branch
+master
+bla bla
