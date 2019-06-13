@@ -1,3 +1,5 @@
 formation git
 hello
 salut
+checkout
+master
