@@ -5,3 +5,7 @@ checkout
 master
 2nd branch
 master
+bla bla
+Niko
+rebase test
+jigozrohgh
